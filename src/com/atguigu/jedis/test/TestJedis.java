@@ -77,6 +77,8 @@ public class TestJedis {
 		System.out.println(value);
 		
 		System.out.println(value);
+		
+		System.out.println("update by local!");
 	}
 	
 	@Test
