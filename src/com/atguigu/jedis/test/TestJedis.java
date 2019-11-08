@@ -75,6 +75,8 @@ public class TestJedis {
 		jedis.set("Jedis", "Jedis1");
 		
 		System.out.println(value);
+		
+		System.out.println(value);
 	}
 	
 	@Test
