@@ -78,6 +78,7 @@ public class TestJedis {
 		
 		System.out.println(value);
 		
+		System.out.println("update by remote");
 		System.out.println("update by local!");
 	}
 	
